@@ -1,0 +1,55 @@
+{
+  "shared_list_family" : {
+    "fsl001" : {
+      "date_created" : "2016-05-04",
+      "name" : "InstaFamily List",
+      "members" : {
+        "ghananm" : true,
+        "sachithr" : true
+      },
+      "logs" : {
+        "fmlg001" : {
+          "user" : "ghananm",
+          "timestamp" : "2016-06-01 06:42p.m.",
+          "desc" : "ghanan added 5 eggs"
+        },
+        "fmlg002" :  {
+          "user" : "sachithr",
+          "timestamp" : "2016-06-02 07:15a.m.",
+          "desc" : "sachith changed the quantity to 10 eggs"
+        },
+        "fmlg003" : {
+          "user" : "sachithr",
+          "timestamp" : "2016-06-02 09:45a.m.",
+          "desc" : "sachith deleted eggs from the list"
+        }
+      }
+    }
+  },
+
+  "users" : {
+    "ghananm" : {
+      "fname" : "Pranavaghanan",
+      "lname" : "Murugesh",
+      "initials" : "PM"
+    },
+
+    "sachithr" : {
+      "fname" : "Sachith",
+      "lname" : "Rangana",
+      "initials" : "SR"
+    },
+
+    "amzern" : {
+      "fname" : "Amzer",
+      "lname" : "Nazeer",
+      "initials" : "AN"
+    },
+
+    "thufailr" : {
+      "fname" : "Thufail",
+      "lname" : "Mohammed",
+      "initials" : "TR"
+    }
+  }
+}
